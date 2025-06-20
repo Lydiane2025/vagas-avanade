@@ -13,7 +13,7 @@ A Avanade é líder global em soluções digitais e de nuvem, criada pela Accent
 Estamos buscando um(a) **Senior Cloud Data Engineer** com experiência sólida em arquitetura de dados na nuvem, para atuar com projetos inovadores e desafiadores em ambientes Microsoft Azure. A pessoa selecionada trabalhará em um ambiente internacional, colaborativo e altamente técnico.
 
 ## 🔧 Requisitos obrigatórios:
-- Sólida experiência com **Azure Data Factory, Databricks, Synapse Analytics** e **Delta Lake**
+- Sólida experiência com **Azure Data Factory, Databricks, Synapse Analytics**
 - Conhecimento avançado em **T-SQL** (otimização de queries, procedures, índices etc.)
 - Experiência com **pipelines de dados em ambientes de nuvem (Azure)**
 - Conhecimento de **Data Lake, Data Warehouse** e arquiteturas em nuvem
