@@ -36,4 +36,4 @@ Você pode se candidatar de duas maneiras:
 1. Acesse o link da vaga oficial:  
    👉 [https://www.avanade.com/pt-br/career/job-details/10307](https://www.avanade.com/pt-br/career/job-details/10307)  
 2. Ou envie seu currículo diretamente para:  
-   ✉️ **lydiane.aparecida@avanade.com**[senior-cloud-data-engineer.md.txt](https://github.com/user-attachments/files/20840146/senior-cloud-data-engineer.md.txt)
+   ✉️ **lydiane.aparecida@avanade.com**
